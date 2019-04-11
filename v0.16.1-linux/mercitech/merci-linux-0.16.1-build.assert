@@ -1,17 +1,17 @@
 --- !omap
 - out_manifest: |
-    6239c1b89565ec1f8673d0321e3f758b3137d15fdd39ba61ea92f4383db762a3  merci-0.16.1-aarch64-linux-gnu-debug.tar.gz
-    f7cb77580a2702bf5be44aaa731c2a155695176227f7535d24a560d17cd77810  merci-0.16.1-aarch64-linux-gnu.tar.gz
-    547097ade865de97e4a453fec47518ff1ad6f8b631bd9451eb602a34a9cdb846  merci-0.16.1-arm-linux-gnueabihf-debug.tar.gz
-    96ac94deac9094c7b5d3b86563f24caaa414035b55a972fe0bad336836461433  merci-0.16.1-arm-linux-gnueabihf.tar.gz
-    1f16e4c8dc20016ed8454825d6a5c0bbc5fac0c49451f10b8ff06f9f6cbab611  merci-0.16.1-i686-pc-linux-gnu-debug.tar.gz
-    01ed3ab9d2495d466acb302f211238273a86e19cbf169dacc1a7547268caefb6  merci-0.16.1-i686-pc-linux-gnu.tar.gz
-    f5e2bcbaf485e117fb380079ba425e8da991813ed92a6471bab3340b3d5e9578  merci-0.16.1-x86_64-linux-gnu-debug.tar.gz
-    8de1f3327dc1fbdd6afaa36608a802ee7a0944952c58dd025528c34364513327  merci-0.16.1-x86_64-linux-gnu.tar.gz
-    a546e6b45a505b85f4fac3e3bb6ac5530ee962a731944fbaf6af35f2851f78e5  src/merci-0.16.1.tar.gz
+    36d8416f704e28c1b1269039b69e14e4fdd0fc036f175aca735377a4bb96f39a  merci-0.16.1-aarch64-linux-gnu-debug.tar.gz
+    ef3e3c82d81714573ccd330a33781c59f0024f67597db2a6ccaf0f8c9748900f  merci-0.16.1-aarch64-linux-gnu.tar.gz
+    ef62a1ed2d8ab855807a820a03c68a26899aeb8c9d1bfc3d28dcbe2297f694a5  merci-0.16.1-arm-linux-gnueabihf-debug.tar.gz
+    575419156a03cfef6a417d20f2dd0e728e013315cb03659e740e369df1ef995d  merci-0.16.1-arm-linux-gnueabihf.tar.gz
+    f89c494056165d1a9437884b8533c94ab00c48ba27a3010d5b1e7dfbebd16ffd  merci-0.16.1-i686-pc-linux-gnu-debug.tar.gz
+    353f195f551421ac4f8591f277700fa69696115853f9c50377caaf065e35af5a  merci-0.16.1-i686-pc-linux-gnu.tar.gz
+    6a9d08cf4ba9143fb9adce906d11b6dc69fcccf8475588241acf79cbaf9fc13f  merci-0.16.1-x86_64-linux-gnu-debug.tar.gz
+    31502380f9d8a4be6cd6f83fd11f26977b6a3f6b2917671bc82eccc39f09d659  merci-0.16.1-x86_64-linux-gnu.tar.gz
+    6b9544c8768e4e09ba709b3466fe1e887bc3dc6935ec0fc8b8fe9e2e108dd321  src/merci-0.16.1.tar.gz
 - in_manifest: |-
     0751cb54f347d929d409e9ef3afb1e7d195984aa954d63bdf01db69eafac0dc9  merci-linux-0.16.1-desc.yml
-    git:d0597f4172b3151274b94b695fcdcd3c5fa936f7 mercigit:2395c6f3b59531c44cad33b16d695f9fefd4859f cpp-eth-merci
+    git:1dc8b95c63097e54557adbe07658caa3d507f56b mercigit:2395c6f3b59531c44cad33b16d695f9fefd4859f cpp-eth-merci
 - base_manifests: !omap
   - trusty-amd64: |
       1461ce364a68db36190a6981ad9e3889c8a5286e809e45c6e34a720905de46a4  adduser_3.113+nmu3ubuntu3_all.deb
